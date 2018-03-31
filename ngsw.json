@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "https://khan019950.github.io/angular-pwa-push/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://khan019950.github.io/angular-pwa-push/favicon.ico",
+        "https://khan019950.github.io/angular-pwa-push/index.html",
+        "https://khan019950.github.io/angular-pwa-push/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://khan019950.github.io/angular-pwa-push/main.a4d2f870a30614ec55c9.bundle.js",
+        "https://khan019950.github.io/angular-pwa-push/polyfills.e19835dc5ad23645ab2d.bundle.js",
+        "https://khan019950.github.io/angular-pwa-push/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://khan019950.github.io/angular-pwa-push/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://khan019950.github.io/angular-pwa-push/main.a4d2f870a30614ec55c9.bundle.js": "f1f309c988ccf5246144e153d30bdad99711a180",
+    "https://khan019950.github.io/angular-pwa-push/polyfills.e19835dc5ad23645ab2d.bundle.js": "9c869f9389755e66b0d80d367652f807386d8604",
+    "https://khan019950.github.io/angular-pwa-push/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://khan019950.github.io/angular-pwa-push/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://khan019950.github.io/angular-pwa-push/index.html": "c60df062e437c07156a7a4ef422e4c26ba3d8c48"
+  }
+}
